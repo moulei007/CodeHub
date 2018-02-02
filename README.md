@@ -1,2 +1,2 @@
 # CodeHub
-My personal codes is here!
+My personal codes!
